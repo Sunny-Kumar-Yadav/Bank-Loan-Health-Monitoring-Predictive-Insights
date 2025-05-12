@@ -77,6 +77,7 @@ Data transformations and cleansing steps:
 
 ## 📁 File Contents
 
+- **raw_data** – Containing both raw files of bank loan and unemployment rate
 - **Bank_Loan_Analysis.xlsx** – Main Excel workbook with Power Pivot model and dashboards
 - **README.md** – This documentation
 - **Dashboard Images** – Included for GitHub preview (see below)
